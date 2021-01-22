@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: My Thoughts on Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-21
+date: 2021-01-21
 ---
 
 Java and Javascript is the only programming language that I have been exposed to in my previous classes. Before this class, I had never code with Javascript, and to be honest, I did not know that Java and Javascript are two different things. Contrary to Javascript, I have been coding with Java for my ICS 111 and 211 class, so I am slightly more familiar with it. The syntax between the two languages is similar, judging from all the classwork, FreeCampCode, and the WOD we have done. The one big difference I have noticed is that you can still run the program in Javascript if you miss a semicolon. Another syntax I have seen is the triple equal sign, which Javascript has that Java does not have. 
