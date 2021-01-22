@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Thoughts on Javascript
+title: Thoughts on Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 ---
