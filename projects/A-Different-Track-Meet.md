@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Track.jpg
 title: A Different Track Meet
-permalink: projects/running
+permalink: projects/A-Different-Track-Meet
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-21
 ---
