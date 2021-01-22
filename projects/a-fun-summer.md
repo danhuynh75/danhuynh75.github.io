@@ -5,7 +5,7 @@ image: images/summer.jpg
 title: A Fun Summer
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-21
+date: 2021-01-21
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/summer.jpg">
 
