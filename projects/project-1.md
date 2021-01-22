@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Running for Fun
-permalink: projects/micromouse
+title: Running 
+permalink: projects/running
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-21
 
