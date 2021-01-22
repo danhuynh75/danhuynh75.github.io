@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: A Mentor Workshop
-permalink: projects/vacay
+permalink: projects/a-mentor-workshop
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 
