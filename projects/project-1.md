@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
 title: Running 
 permalink: projects/running
 # All dates must be YYYY-MM-DD format!
