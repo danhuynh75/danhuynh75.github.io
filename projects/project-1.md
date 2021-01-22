@@ -5,6 +5,7 @@ title: Running
 permalink: projects/running
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-21
+---
 
 Track and field is a sport that includes athletic contests established on running, jumping, and throwing. In my senior year of high school, a track team from my old middle school lost their coach. This caused them to miss out on the chances to register for track meets, causing all of their hours to spend at practice to go to waste. I felt terrible for them; having been on track for all four years of high school and most of the middle school, I could relate to the disappointment they must have felt not to be able to compete. As the captain of my school track team, I talked it over with my coach, and we decided to hold a track meet for them at our brand new field. They were pleased to learn that they could finally race in an actual match, so they agreed, and we had a mini track meet.
 
