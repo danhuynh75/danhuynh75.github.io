@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/summer.jpg
 title: A Fun Summer
-permalink: projects/cotton
+permalink: projects/a-fun-summer
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 ---
