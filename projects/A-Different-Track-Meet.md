@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: Running 
+title: A Different Track Meet
 permalink: projects/running
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-21
