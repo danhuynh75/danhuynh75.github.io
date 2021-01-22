@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: A Mentor Workshop
+title: A Mentor's Workshop
 permalink: projects/a-mentor-workshop
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
