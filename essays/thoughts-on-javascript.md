@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Thoughts on Javascript
+permalink: projects/thoughts-on-javascript
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 ---
