@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Thoughts on Javascript
 image: images/java.jpg
-permalink: projects/thoughts-on-javascript
+permalink: essays/thoughts-on-javascript
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 ---
