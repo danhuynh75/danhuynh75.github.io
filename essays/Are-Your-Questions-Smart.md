@@ -8,7 +8,7 @@ permalink: essays/are-your-questions-smart
 date: 2021-01-28
 ---
 
-<img class="ui medium left floated image" src="../images/Questions.jpg">
+<img class="ui large left floated image" src="../images/Questions.jpg">
 
 Often in school, programming students have a tough time asking questions. Most of the time, the problem is not knowing when to ask a question and what is considered a good question. Students are hesitant to ask as they are ashamed that their problem is something trivial, which could lead to them coming off as either dumb or just someone holding up the class with a question is answered by paying attention in class. The latter was something I experience during summer school. Another student kept asking questions that are very obvious if she was paying attention, such as what is this or what is that. Not only was it taking up time that the professor could use to teach other materials or answer a more in-depth question but quite frankly, it was annoying. Programming is a relatively new thing, so it is often tricky to differentiate between which problems require skilled people's help and which Google could solve.
 
