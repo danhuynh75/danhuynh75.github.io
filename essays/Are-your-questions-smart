@@ -1,0 +1,11 @@
+---
+layout: essay
+type: essay
+title: Are Your Questions Smart?
+permalink: projects/thoughts-on-javascript
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-28
+---
+<img class="ui medium left floated image" src="../images/java.jpg">
+
+[smart question](https://stackoverflow.com/questions/14220321/how-do-i-return-the-response-from-an-asynchronous-call)
