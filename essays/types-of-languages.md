@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Types of Languages
+image: images/lan.jpg
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 ---
