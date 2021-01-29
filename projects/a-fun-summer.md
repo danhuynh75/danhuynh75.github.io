@@ -7,7 +7,8 @@ permalink: projects/a-fun-summer
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/sf.jpg">
+
+<img class="ui medium left floated image" src="../images/sf.jpg">
 
 [Summer fun](http://www.honolulu.gov/parks/program/summer-fun-program.html) is a program that includes a wide variety of free and paid activities ranging from learning to swim to sports, arts and crafts, music, and dance. During one of my summer breaks, I volunteered as a junior leader at the McCully Summer Fun program. Throughout the program, I worked under the supervision of a summer aid to supervise and teach the classes and activities they offered. One of the things I did was hold a class where I teach the kids finger knitting. I would stand up in front of them and show them how to do the knitting, and then I would have them do it and assist them if they needed it. 
 
