@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "Nhan Bui",
         "url": "https://www.linkedin.com/in/nhan-bui-4a7a58203//"
-      },
+      }
       
     ]
   },
@@ -48,7 +48,7 @@
       "name": "Animation",
       "keywords": [
       ]
-    },
+    }
     
   ],
   "skills": [
@@ -57,7 +57,7 @@
       "level": "",
       "keywords": [
         "Java",
-        "Javascript", 
+        "Javascript"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Eclipse",
+        "Eclipse"
       ]
     }, 
     {
@@ -74,7 +74,7 @@
      "keywords": [
         "Microsoft words",
         "Microsoft powerpoint",
-       "Microsoft excel",
+       "Microsoft excel"
       ]
     },
     
@@ -108,7 +108,7 @@
       "summary": "",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
-        "Carry out administrative and technical tasks requested by supervisor",
+        "Carry out administrative and technical tasks requested by supervisor"
       ]
     },
     {
@@ -121,7 +121,7 @@
       "highlights": [
         "Maintain brand and operational standard",
         "Meet and exceed sales goals",
-        "Pro-actively manage customer needs and exceed expectations",
+        "Pro-actively manage customer needs and exceed expectations"
       ]
     },
      {
@@ -133,7 +133,7 @@
       "summary": "",
       "highlights": [
         "Deliver a perfect product and a complete order every time",
-        "Be knowledgeable of Jamba’s products and nutritional value to better understand your guest’s needs and make a recommendation.",
+        "Be knowledgeable of Jamba’s products and nutritional value to better understand your guest’s needs and make a recommendation."
       ]
     }
   ],
@@ -146,9 +146,9 @@
       "endDate": "2017-08",
       "summary": "",
       "highlights": [
-        "Work under the supervision of a summer aid to supervise and teach the classes and activities they offered",
+        "Work under the supervision of a summer aid to supervise and teach the classes and activities they offered"
       ]
-    },
+    }
     
   ],
   "awards": [
@@ -157,7 +157,7 @@
       "date": "2020-Present",
       "awarder": "State of Hawaii",
       "summary": ""
-    },
+    }
    
   ],
   "references": [
