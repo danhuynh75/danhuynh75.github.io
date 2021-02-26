@@ -1,9 +1,10 @@
 ---
 layout: essay
 type: essay
-title: A great puzzle
+title: A Great Puzzle
+permalink: essays/a-great-puzzle
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-25
+date: 2021-02-25
 ---
 
 
