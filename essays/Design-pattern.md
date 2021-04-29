@@ -1,11 +1,9 @@
-
-
 ---
 layout: essay
 type: essay
 title: DeSiGn PaTtErN?
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-25
+date: 2021-04-29
 ---
 
 
