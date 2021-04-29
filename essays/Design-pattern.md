@@ -9,7 +9,7 @@ date: 2021-02-25
 ---
 
 
-<img class="ui medium left floated image" src="../images/puzzle.jpg">
+<img class="ui medium left floated image" src="../images/design.jpg">
 
 Design patterns are general solutions to general problems that software developers faced during development. They are generally repeatable solutions to a problem that frequently occurs in software designs. It is a description or template for how to solve a problem that can be used in many different situations that other developers or yourself can use to write the actual code for your program. Using design patterns can help speed up the development process, and make the overall system easier to understand and maintain. 
 
