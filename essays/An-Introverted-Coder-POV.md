@@ -6,7 +6,8 @@ image: images/final1.png
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-13
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/final1.png">
+
+<img class="ui image" src="../images/final1.png">
 
 ## Coding In A Group
   In group work, as I have experience in my software development class, coding standards are very important. It allows the group members to efficiently communicate their codes to each other making it easier to work together when adding new codes or debugging. For someone in ICS hoping to pursue a career in programming, I believe this was an important experience to have. Coding standards to a programmer is like laws to civilians. If civilians do not obey the laws then we would not be able to have a civilized life, there would be crimes and violence roaming the streets everywhere we go. Similarly, if a programmer does not follow coding standards there would be bugs and errors everywhere in the code. In society we have police, and in our coding program, we have the ever so helpful ESLint. ESLint is a coding standard tool that detects and warns me about every slight error in my code. Although it is very pesky at times picking out errors in a line of code that I am not done writing, in the end; it helped my group and I abide by the coding standards which ultimately helped us achieve optimal sufficiency in our group work.
