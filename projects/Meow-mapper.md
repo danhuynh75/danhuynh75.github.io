@@ -18,10 +18,10 @@ The website has a minimalistic design with five subpages. The Spay and Neuter pa
 
 <div class="ui medium images">
   <img class="ui centered image" src="../images/catsnatch.png">
-  <img class="ui centered image" src="../images/catsnatch.png">
-  <img class="ui centered image" src="../images/catsnatch.png">
-  <img class="ui centered image" src="../images/catsnatch.png">
-  <img class="ui centered image" src="../images/catsnatch.png">
+  <img class="ui centered image" src="../images/catsnap.png">
+  <img class="ui centered image" src="../images/catdot.png">
+  <img class="ui centered image" src="../images/catspay.png">
+  <img class="ui centered image" src="../images/catvol.png">
 </div>
 
 ## Final OutCome
