@@ -2,10 +2,9 @@
 layout: essay
 type: essay
 title: An Introvert's Point Of View
-image: images/lh.png
-permalink: essays/a-love-hate-relation
+image: images/final.png
 # All dates must be YYYY-MM-DD format!
-date: 2021-03-13
+date: 2021-05-13
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/final.png" width = "300" height = "300">
 
