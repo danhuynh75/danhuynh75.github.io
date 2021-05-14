@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: An Introvert's Point Of View
 image: images/final1.png
-permalink: essays/An-Introverts-Point-Of-View
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-13
 ---
