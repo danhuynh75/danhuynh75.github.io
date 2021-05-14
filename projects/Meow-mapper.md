@@ -8,6 +8,7 @@ permalink: projects/a-different-track-meet
 date: 2021-01-21
 ---
 
+  <img class="ui large centered rounded image" src="../images/cathome.png">
 ## About Meow Mapper
 
 At the UH Manoa campus, there is an abundance of cats roaming around. However, since cats are naturally introverts, they are difficult to spot. So my group and I decided to make a website dedicated to helping cat lovers find cats all over campus called Meow Mapper. The website will allow users to map cats they see on campus and check out where other users have found cats on campus. Along with this, users can adopt the cats on campus, donate money that will go towards buying food and other cat supplies, volunteer to help with the caretaking of the cats, or look at cat pictures. 
