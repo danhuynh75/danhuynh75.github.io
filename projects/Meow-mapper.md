@@ -28,6 +28,6 @@ The website has a minimalistic design with five subpages. The Spay and Neuter pa
 
 Although Meow Mapper is as functional as our skills will let us, I feel regretful that we could not have done more. The website has the cat's locations and pictures represented as cards. But I would like to have an actual map. The map would have pinpoints with the cat pictures on it, and if clicked on more information about the cats would show up. This project has been a wonderful learning experience for me to have. It showed me a little bit of what it is like to work in groups to code a project. I was fortunate enough to have people I already knew in my group; this made it easier for me to speak my opinions and have more creative inputs on the project. With this experience in my skillset, I look forward to working on more group projects with other computer science students and make more acquaintances. 
 
-A live deployment of our website is available at [https://meowmapper.com/](https://meowmapper.com/). Our homepage can be found [here](https://meow-mapper.github.io/) and our source code can be found [here](https://github.com/meow-mapper/meow-mapper-deploy).
+Our homepage can be found [here](https://meow-mapper.github.io/) and our source code can be found [here](https://github.com/meow-mapper/meow-mapper-deploy).
 
 
