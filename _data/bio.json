@@ -97,6 +97,7 @@
   "work": [
     {
       "company": "V Hair Styling",
+      "position": "Hair stylist and barber",
       "startDate": "2019-05",
       "endDate": "2021-06",
       "summary": "Hair stylist and barber in charge of hair care for customers",
@@ -109,6 +110,7 @@
     },
     {
       "company": "KJ Barbershop and Beauty Salon",
+       "position": "Hair stylist and barber",
       "startDate": "2016-02",
       "endDate": "2017-04",
       "summary": "Hair stylist and barber in charge of hair care for customers",
