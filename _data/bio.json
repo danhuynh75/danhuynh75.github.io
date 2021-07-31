@@ -81,13 +81,17 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2018-08-26",
-      "endDate": "Present",
-      "gpa": "3.49",
-      "courses": [
+      "institution": "Hawaii Institute of Hair Desgin",
+      "studyType": "Vocational",
+      "startDate": "2015-03",
+      "endDate": "2015-12",
+      "Summary": "9 months of full time training totaling to 1500 clocked hours",
+      "Courses": [
+        "Haircutting",
+        "Hairstyling",
+        "Hair & Scalp Treatments",
+        "Shaving, and Facial",
+        "Shop Management"
       ]
     }
   ],
