@@ -1,15 +1,13 @@
 {
-  "basics": {
-    "name": "Nhan Bui",
-    "label": "Student",
-    "picture": "https://nhanb106.github.io/images/nhan2.JPG",
-    "email": "nhanb@hawaii.edu",
-    "phone": "808-741-7274",
-    "website": "https://nhanb106.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and minoring in mathematics at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "basics": {
+    "name": "Dan Huynh",
+    "label": "Hair stylist and hair technician",
+    "email": "danhuynhvance@gmail.com",
+    "phone": "808-721-8966",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
