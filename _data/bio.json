@@ -1,5 +1,5 @@
 {
-    "basics": {
+  "basics": {
     "name": "Dan Huynh",
     "label": "Hair stylist and hair technician",
     "email": "danhuynhvance@gmail.com",
@@ -14,73 +14,68 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "nhanb106",
-        "url": "http://github.com/nhanb106"
-      },
-      {
-        "network": "linkedin",
-        "username": "Nhan Bui",
-        "url": "https://www.linkedin.com/in/nhan-bui-4a7a58203//"
+        "network": "facebook",
+        "username": "tri van",
+        "url": "https://www.facebook.com/tri.van.9279"
       }
-      
     ]
   },
   "interests": [
     {
-      "name": "Computer Science",
+      "name": "Hair Styling",
       "keywords": [
       ]
     },
     {
-      "name": "Game development",
+      "name": "Hair cutting",
       "keywords": [
       ]
     },
     {
-      "name": "Mathematics",
+      "name": "Hair coloring",
       "keywords": [
       ]
     },
- {
-      "name": "Animation",
+    {
+      "name": "Hair treament",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Manicurist",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Pedicurist",
       "keywords": [
       ]
     }
-    
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Hair styling",
+      "level": "Professional",
       "keywords": [
-        "Java",
-        "Javascript"
+        "Styling",
+        "Barber",
+        "Cosmetology",
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "Nail Technician",
+      "level": "Professional",
       "keywords": [
-        "MacOS",
-        "Eclipse"
-      ]
-    }, 
-    {
-      "name": "Microsoft Office",
-      "level": "",
-     "keywords": [
-        "Microsoft words",
-        "Microsoft powerpoint",
-       "Microsoft excel"
+        "Manicurist",
+        "Pedicurist"
       ]
     },
-    
-    {
+     {
       "name": "Vietnamese",
-      "level": "",
+      "level": "Professional",
       "keywords": [
-      "Proficient in speaking, reading, and writing"
+        "Hair styling",
+        "Barber"
       ]
     }
   ],
@@ -98,70 +93,29 @@
   ],
   "work": [
     {
-      "company": "UH Manoa College of Social Science",
-      "position": "Student Assistant",
-      "website": "",
-      "startDate": "2019-11-01",
-      "endDate": "Present",
-      "summary": "",
+      "company": "V Hair Styling",
+      "position": "Barber, Hair Stylist",
+      "startDate": "2019-05",
+      "endDate": "2021-06",
+      "summary": "Hair stylist in charge of hair care for customers",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Carry out administrative and technical tasks requested by supervisor"
+        "Perform all hair related task such as styling, coloring, and cutting",
+        "Consulting with clients on stylistic options for their hair",
+        "Adhering to salon safety and cleanliness standards"
       ]
     },
     {
-      "company": "Uniqlo",
-      "position": "Sales Associates",
-      "website": "",
-      "startDate": "2019-04",
-      "endDate": "2019-23",
-      "summary": "",
+      "company": "KJ Barbershop and Beauty Salon",
+      "position": "Barber, Hair Stylist",
+      "startDate": "2016-02",
+      "endDate": "2017-04",
+      "summary": "Hair stylist in charge of hair care for customers",
       "highlights": [
-        "Maintain brand and operational standard",
-        "Meet and exceed sales goals",
-        "Pro-actively manage customer needs and exceed expectations"
-      ]
-    },
-     {
-      "company": "Jamba Juice",
-      "position": "Team Member",
-      "website": "",
-      "startDate": "2017-04",
-      "endDate": "2018-01",
-      "summary": "",
-      "highlights": [
-        "Deliver a perfect product and a complete order every time",
-        "Be knowledgeable of Jamba’s products and nutritional value to better understand your guest’s needs and make a recommendation."
+        "Perform all hair related task such as styling, coloring, and cutting",
+        "Consulting with clients on stylistic options for their hair",
+        "Adhering to salon safety and cleanliness standards"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Summer Fun Program",
-      "website": "http://www.honolulu.gov/parks/program/summer-fun-program.html",
-      "position": "Junior Leader",
-      "startDate": "2017-06",
-      "endDate": "2017-08",
-      "summary": "",
-      "highlights": [
-        "Work under the supervision of a summer aid to supervise and teach the classes and activities they offered"
-      ]
-    }
-    
-  ],
-  "awards": [
-    {
-      "title": "UH Manoa Dean's List",
-      "date": "2020-Present",
-      "awarder": "State of Hawaii",
-      "summary": ""
-    }
-   
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+
 }
